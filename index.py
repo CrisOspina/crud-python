@@ -5,12 +5,6 @@ conexion = sqlite3.connect('estudiantes.db')
 # Creamos el cursor
 cursor = conexion.cursor()
 
-# Ahora crearemos una tabla de usuarios para almacenar nombres, edades y emails
-#cursor.execute("CREATE TABLE usuarios (nombre VARCHAR(100), edad INTEGER, email VARCHAR(100))")
-
-# Crear usuarios
-#cursor.execute("INSERT INTO usuarios VALUES ('cris', 22, 'cris@gmail.com')")
-
 # Consutar usuarios
 # cursor.execute("SELECT * FROM usuarios")
 # usuario = cursor.fetchone()
