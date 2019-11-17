@@ -1,4 +1,6 @@
-# crud-python
-
-## SQL-LITE
-## CRUD - En proceso...
+# Create
+# Read
+# Update
+# Delete
+# Search
+# SQL-LITE
