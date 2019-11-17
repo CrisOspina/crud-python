@@ -14,7 +14,7 @@ try:
 except sqlite3.OperationalError as error:
   print("Error al abrir:", error)
   
-Crear tablas en bd si no existe
+# Crear tablas en bd si no existe
 try:
   tablas = [
     """
