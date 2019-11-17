@@ -1,6 +1,1 @@
-# Create
-# Read
-# Update
-# Delete
-# Search
-# SQL-LITE
+# Create, Read, Update, Delete, Search, SQL-LITE
